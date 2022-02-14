@@ -1,5 +1,6 @@
 # News_App
- 
+ https://user-images.githubusercontent.com/83133819/153861915-6ae3fc66-dcdd-4466-bc40-fad699ef548c.mp4
+
 
 ![Screenshot_20220214_135739_com example news](https://user-images.githubusercontent.com/83133819/153861649-dea2e717-7b8c-4e81-9449-ed8895d68db6.jpg)
 ![Screenshot_20220214_135748_com example news](https://user-images.githubusercontent.com/83133819/153861671-9e6d010a-8672-4ca7-96a9-690120bc74d5.jpg)
